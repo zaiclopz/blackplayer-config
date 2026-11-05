@@ -1,0 +1,13 @@
+{
+  "config": "eyJ2IjoxLCJ0eXAiOiJjb25maWciLCJpYXQiOjE3OTM5MTU4NDIsImFwaV9kb21haW5zIjpbImh0dHBzOi8vYmxhY2twbGF5ZXIuYXBwIl0sInBvcnRhbF91cmwiOiJodHRwczovL2JsYWNrcGxheWVyLmFwcCIsImtpZCI6ImJwLTIwMjYtYSJ9.lSN7HDh6lyB0iWmOo8PLxZnmDDyY4bBZQBsi3EMSrd5mBoV2i7zJRKvd3SSVFXZxMDQ8HtuNChKgzlEQ4C8kBg",
+  "readable": {
+    "v": 1,
+    "typ": "config",
+    "iat": 1793915842,
+    "api_domains": [
+      "https://blackplayer.app"
+    ],
+    "portal_url": "https://blackplayer.app",
+    "kid": "bp-2026-a"
+  }
+}

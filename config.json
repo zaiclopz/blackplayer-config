@@ -1,13 +1,14 @@
 {
-  "config": "eyJ2IjoxLCJ0eXAiOiJjb25maWciLCJpYXQiOjE3OTM5MTU4NDIsImFwaV9kb21haW5zIjpbImh0dHBzOi8vYmxhY2twbGF5ZXIuYXBwIl0sInBvcnRhbF91cmwiOiJodHRwczovL2JsYWNrcGxheWVyLmFwcCIsImtpZCI6ImJwLTIwMjYtYSJ9.lSN7HDh6lyB0iWmOo8PLxZnmDDyY4bBZQBsi3EMSrd5mBoV2i7zJRKvd3SSVFXZxMDQ8HtuNChKgzlEQ4C8kBg",
+  "config": "eyJ2IjoxLCJ0eXAiOiJjb25maWciLCJpYXQiOjE3OTQ0MzA2NzksImFwaV9kb21haW5zIjpbImh0dHBzOi8vcmlvcGxheWVyLmFwcCIsImh0dHBzOi8vYmxhY2twbGF5ZXIuYXBwIl0sInBvcnRhbF91cmwiOiJodHRwczovL3Jpb3BsYXllci5hcHAiLCJraWQiOiJicC0yMDI2LWEifQ.i_8p7fkp-1oU-54nlV-JQI6buknAumTU-WptPM8lE8d8GlDQ-UK81aNtKM-RXXW_SmA4Oe-1oXYrSCaqDVpzBw",
   "readable": {
     "v": 1,
     "typ": "config",
-    "iat": 1793915842,
+    "iat": 1794430679,
     "api_domains": [
+      "https://rioplayer.app",
       "https://blackplayer.app"
     ],
-    "portal_url": "https://blackplayer.app",
+    "portal_url": "https://rioplayer.app",
     "kid": "bp-2026-a"
   }
 }
